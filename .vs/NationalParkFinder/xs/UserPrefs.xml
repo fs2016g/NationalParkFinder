@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{B325F106-4B44-47E2-93EC-697A42F6339D}|Default">
+  <MonoDevelop.Ide.ItemProperties.NationalParkFinder FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NationalParkFinder.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NationalParkFinder.Android FirstBuild="True" />
+</Properties>
